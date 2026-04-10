@@ -1,0 +1,25 @@
+{
+  "name": "my",
+  "version": "1.0.0",
+  "description": "এই প্রজেক্টটি [তোমার কাজের সংক্ষিপ্ত পরিচিতি]।   উদাহরণ: একটি Discord Bot / Flask Web App / Survey Platform।",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanelOpenionBD/my.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PanelOpenionBD/my/issues"
+  },
+  "homepage": "https://github.com/PanelOpenionBD/my#readme",
+  "dependencies": {
+    "discord.js": "^14.26.2",
+    "dotenv": "^17.4.1"
+  }
+}
